@@ -1,0 +1,46 @@
+# Basic
+title: Six Feet Under
+subtitle: Remember Me
+# welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
+description: Consider the bad times as down payment for good times.Hang it there.
+# creator: <a href="http://link">@name</a>
+
+url: "https://nianjiao6.github.io/"
+
+permalink: /:year/:month/:title/
+
+# Format
+highlighter: rouge
+
+# supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
+cover_color: red
+
+# The blog button should not be removed.
+blog_button:
+    title: Blog
+    description: Visit blog
+
+# Navigation buttons in the front page.
+nav:
+    # - {title: Another Button, description: A button, url: 'http://example.com'}
+
+# Pagination
+plugins: [jekyll-paginate]
+paginate: 10
+paginate_path: "page/:num/"
+
+# Comment
+comment:
+    disqus: J
+    # duoshuo: 
+    
+# Social
+social:
+    # weibo: name
+    # github: name
+    mail: TooT_cn@live.cn
+
+# Google Analytics
+ga:
+    # id: your_ga_id
+    # host: your_host
