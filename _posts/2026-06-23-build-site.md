@@ -3,7 +3,7 @@ title: GitHub Pages + Chirpy 建站全流程
 date: 2026-06-23 10:00:00 +0800
 categories: [Tech, Jekyll]
 tags: [jekyll, github-pages]
-pin: true
+pin: flase
 ---
 
 这篇文章记录本站从零搭建的完整过程:基于 [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) 主题、用 gem 方式集成、通过 GitHub Actions 部署到 GitHub Pages,并补上在 macOS 上本地预览的环境配置。既是建站笔记,也可作为复刻模板。
